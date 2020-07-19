@@ -1,6 +1,6 @@
 # Esse projeto tem como objetivo criar um banco de dados e demonstrar as operações de CRUD utilizando NODE.JS e padrão MVC.
 
-Foi utilizado a feature(funcionalidade) ASYNC/AWAIT, para quem nunca ouvir => (https://mzl.la/2LiZb3c)  ;D
+Foi utilizado a feature(funcionalidade) ASYNC/AWAIT, para quem nunca ouviu falar => (https://mzl.la/2LiZb3c)  ;D
 
 Para de desenvolver o mesmo foram utilizados os seguintes programas: Insomnia, Robo 3t,Docker, Visual Code e o terminal do Ubuntu. 
 
